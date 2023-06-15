@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-image: url(../img/bluefrog.jpg);
+  background-position: center;
+}
+
+button {
+  color: black;
+}
+
+#charName {
+  color: black;
+}
+
+#animal {
+  color: black;
+}
